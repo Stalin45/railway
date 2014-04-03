@@ -1,0 +1,46 @@
+31/03/2014 20:11:39 [FATAL] [Thread-3] [com.tschool.railwayapp.server.ConnectionHandlerServer | 127] - java.net.SocketException: Connection reset
+31/03/2014 20:14:54 [FATAL] [Thread-5] [com.tschool.railwayapp.server.ConnectionHandlerServer | 127] - java.net.SocketException: Connection reset
+31/03/2014 20:15:33 [FATAL] [Thread-6] [com.tschool.railwayapp.server.ConnectionHandlerServer | 127] - java.net.SocketException: Connection reset
+31/03/2014 20:16:00 [FATAL] [Thread-7] [com.tschool.railwayapp.server.ConnectionHandlerServer | 127] - java.net.SocketException: Connection reset
+31/03/2014 20:20:04 [FATAL] [Thread-3] [com.tschool.railwayapp.server.ConnectionHandlerServer | 127] - java.net.SocketException: Connection reset
+31/03/2014 20:21:46 [FATAL] [Thread-5] [com.tschool.railwayapp.server.ConnectionHandlerServer | 127] - java.net.SocketException: Connection reset
+31/03/2014 20:34:13 [FATAL] [Thread-6] [com.tschool.railwayapp.server.ConnectionHandlerServer | 127] - java.net.SocketException: Connection reset
+31/03/2014 20:35:49 [FATAL] [Thread-7] [com.tschool.railwayapp.server.ConnectionHandlerServer | 127] - java.net.SocketException: Connection reset
+31/03/2014 20:38:34 [FATAL] [Thread-8] [com.tschool.railwayapp.server.ConnectionHandlerServer | 127] - java.net.SocketException: Connection reset
+31/03/2014 20:53:43 [FATAL] [Thread-3] [com.tschool.railwayapp.server.ConnectionHandlerServer | 126] - java.net.SocketException: Connection reset
+31/03/2014 20:55:16 [FATAL] [Thread-5] [com.tschool.railwayapp.server.ConnectionHandlerServer | 126] - java.net.SocketException: Connection reset
+31/03/2014 20:59:53 [FATAL] [Thread-6] [com.tschool.railwayapp.server.ConnectionHandlerServer | 126] - java.net.SocketException: Connection reset
+31/03/2014 21:15:32 [FATAL] [Thread-7] [com.tschool.railwayapp.server.ConnectionHandlerServer | 126] - java.net.SocketException: socket closed
+31/03/2014 21:20:49 [FATAL] [Thread-9] [com.tschool.railwayapp.server.ConnectionHandlerServer | 126] - java.net.SocketException: Connection reset
+31/03/2014 21:22:19 [FATAL] [Thread-10] [com.tschool.railwayapp.server.ConnectionHandlerServer | 126] - java.net.SocketException: socket closed
+31/03/2014 21:22:45 [FATAL] [Thread-12] [com.tschool.railwayapp.server.ConnectionHandlerServer | 126] - java.net.SocketException: Connection reset
+31/03/2014 21:28:37 [FATAL] [Thread-13] [com.tschool.railwayapp.server.ConnectionHandlerServer | 126] - java.net.SocketException: socket closed
+31/03/2014 21:32:28 [FATAL] [Thread-3] [com.tschool.railwayapp.server.ConnectionHandlerServer | 126] - java.net.SocketException: socket closed
+31/03/2014 21:37:02 [FATAL] [Thread-3] [com.tschool.railwayapp.server.ConnectionHandlerServer | 126] - java.net.SocketException: socket closed
+31/03/2014 21:40:12 [FATAL] [Thread-6] [com.tschool.railwayapp.server.ConnectionHandlerServer | 126] - java.net.SocketException: socket closed
+31/03/2014 21:40:29 [FATAL] [Thread-8] [com.tschool.railwayapp.server.ConnectionHandlerServer | 126] - java.net.SocketException: Connection reset
+31/03/2014 21:52:25 [FATAL] [Thread-9] [com.tschool.railwayapp.server.ConnectionHandlerServer | 126] - java.io.EOFException
+31/03/2014 21:52:52 [FATAL] [Thread-11] [com.tschool.railwayapp.server.ConnectionHandlerServer | 126] - java.net.SocketException: socket closed
+31/03/2014 21:53:13 [FATAL] [Thread-13] [com.tschool.railwayapp.server.ConnectionHandlerServer | 126] - java.net.SocketException: Connection reset
+31/03/2014 23:37:02 [FATAL] [Thread-4] [com.tschool.railwayapp.server.ConnectionHandlerServer | 127] - java.io.EOFException
+31/03/2014 23:37:20 [FATAL] [Thread-5] [com.tschool.railwayapp.server.ConnectionHandlerServer | 127] - java.net.SocketException: Connection reset
+01/04/2014 00:23:37 [FATAL] [Thread-3] [com.tschool.railwayapp.server.ConnectionHandlerServer | 127] - java.net.SocketException: Connection reset
+01/04/2014 00:28:33 [FATAL] [Thread-3] [com.tschool.railwayapp.server.ConnectionHandlerServer | 127] - java.net.SocketException: Connection reset
+01/04/2014 01:08:25 [FATAL] [Thread-3] [com.tschool.railwayapp.server.ConnectionHandlerServer | 127] - java.net.SocketException: Connection reset
+01/04/2014 01:45:59 [FATAL] [Thread-3] [com.tschool.railwayapp.server.ConnectionHandlerServer | 127] - java.io.EOFException
+01/04/2014 01:46:13 [FATAL] [Thread-5] [com.tschool.railwayapp.server.ConnectionHandlerServer | 127] - java.io.EOFException
+01/04/2014 01:46:21 [FATAL] [Thread-6] [com.tschool.railwayapp.server.ConnectionHandlerServer | 127] - java.io.EOFException
+01/04/2014 01:46:34 [FATAL] [Thread-7] [com.tschool.railwayapp.server.ConnectionHandlerServer | 127] - java.net.SocketException: Connection reset
+01/04/2014 01:51:59 [FATAL] [Thread-8] [com.tschool.railwayapp.server.ConnectionHandlerServer | 127] - java.net.SocketException: Connection reset
+01/04/2014 01:52:47 [FATAL] [Thread-9] [com.tschool.railwayapp.server.ConnectionHandlerServer | 127] - java.net.SocketException: Connection reset
+01/04/2014 02:11:28 [FATAL] [Thread-3] [com.tschool.railwayapp.server.ConnectionHandlerServer | 127] - java.net.SocketException: Connection reset
+01/04/2014 02:17:10 [FATAL] [Thread-3] [com.tschool.railwayapp.server.ConnectionHandlerServer | 127] - java.net.SocketException: Connection reset
+01/04/2014 02:17:53 [FATAL] [Thread-5] [com.tschool.railwayapp.server.ConnectionHandlerServer | 127] - java.io.EOFException
+01/04/2014 02:18:15 [FATAL] [Thread-6] [com.tschool.railwayapp.server.ConnectionHandlerServer | 127] - java.net.SocketException: Connection reset
+01/04/2014 13:19:54 [ERROR] [Thread-3] [com.tschool.railwayapp.server.ConnectionHandlerServer | 116] - java.io.EOFException
+01/04/2014 13:22:42 [ERROR] [Thread-5] [com.tschool.railwayapp.server.ConnectionHandlerServer | 116] - java.net.SocketException: Connection reset
+01/04/2014 16:07:36 [ERROR] [Thread-3] [com.tschool.railwayapp.server.ConnectionHandlerServer | 116] - java.io.EOFException
+01/04/2014 16:14:18 [ERROR] [Thread-5] [com.tschool.railwayapp.server.ConnectionHandlerServer | 116] - java.net.SocketException: Connection reset
+01/04/2014 16:19:34 [ERROR] [Thread-3] [com.tschool.railwayapp.server.ConnectionHandlerServer | 116] - java.io.EOFException
+01/04/2014 16:23:15 [ERROR] [Thread-5] [com.tschool.railwayapp.server.ConnectionHandlerServer | 116] - java.io.EOFException
+01/04/2014 16:40:28 [ERROR] [Thread-3] [com.tschool.railwayapp.server.ConnectionHandlerServer | 116] - java.io.EOFException

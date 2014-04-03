@@ -1,0 +1,14 @@
+01/04/2014 13:11:09 [ERROR] [com.tschool.railwayapp.client.FrameAuthentication | 195] - Can't connect to the server
+01/04/2014 13:11:12 [ERROR] [com.tschool.railwayapp.client.FrameAuthentication | 195] - Can't connect to the server
+01/04/2014 13:11:29 [ERROR] [com.tschool.railwayapp.client.FrameAuthentication | 197] - com.tschool.railwayapp.commons.exceptions.FindException: SuperUser with id/name  not found
+01/04/2014 13:15:30 [ERROR] [com.tschool.railwayapp.client.gui.PanelStation | 310] - javax.persistence.PersistenceException: org.hibernate.PersistentObjectException: detached entity passed to persist: com.tschool.railwayapp.commons.entities.Pathmap
+01/04/2014 13:17:08 [ERROR] [com.tschool.railwayapp.client.gui.PanelStation | 310] - javax.persistence.PersistenceException: org.hibernate.PersistentObjectException: detached entity passed to persist: com.tschool.railwayapp.commons.entities.Pathmap
+01/04/2014 16:06:08 [ERROR] [com.tschool.railwayapp.client.FrameAuthentication | 197] - com.tschool.railwayapp.commons.exceptions.FindException: SuperUser with id/name spec1 not found
+01/04/2014 16:07:17 [ERROR] [com.tschool.railwayapp.client.FrameAuthentication | 197] - com.tschool.railwayapp.commons.exceptions.FindException: SuperUser with id/name spec1 not found
+01/04/2014 16:10:30 [ERROR] [com.tschool.railwayapp.client.gui.PanelTrain | 48] - java.lang.IllegalArgumentException: setSelectedIndex: 0 out of bounds
+01/04/2014 16:10:32 [ERROR] [com.tschool.railwayapp.client.gui.PanelStation | 67] - java.lang.IllegalArgumentException: setSelectedIndex: 0 out of bounds
+01/04/2014 16:10:34 [ERROR] [com.tschool.railwayapp.client.gui.PanelTimetable | 57] - java.lang.IllegalArgumentException: setSelectedIndex: 0 out of bounds
+01/04/2014 16:10:39 [ERROR] [com.tschool.railwayapp.client.gui.PanelStation | 67] - java.lang.IllegalArgumentException: setSelectedIndex: 0 out of bounds
+01/04/2014 16:10:41 [ERROR] [com.tschool.railwayapp.client.gui.PanelTimetable | 57] - java.lang.IllegalArgumentException: setSelectedIndex: 0 out of bounds
+01/04/2014 16:11:15 [ERROR] [com.tschool.railwayapp.client.gui.PanelTrain | 48] - java.lang.IllegalArgumentException: setSelectedIndex: 0 out of bounds
+01/04/2014 16:41:04 [ERROR] [com.tschool.railwayapp.client.gui.PanelFindPaths | 251] - com.tschool.railwayapp.commons.exceptions.FindException: No routes fit your options

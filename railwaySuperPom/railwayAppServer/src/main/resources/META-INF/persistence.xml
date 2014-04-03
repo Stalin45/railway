@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.0" xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd">
+   <persistence-unit name="railwayapp"  transaction-type="RESOURCE_LOCAL">
+      <provider>org.hibernate.ejb.HibernatePersistence</provider>
+      <class>com.tschool.railwayapp.commons.entities.Destination</class>
+      <class>com.tschool.railwayapp.commons.entities.Passenger</class>
+      <class>com.tschool.railwayapp.commons.entities.Path</class>
+      <class>com.tschool.railwayapp.commons.entities.Pathmap</class>
+      <class>com.tschool.railwayapp.commons.entities.Station</class>
+      <class>com.tschool.railwayapp.commons.entities.Ticket</class>
+      <class>com.tschool.railwayapp.commons.entities.TimeTable</class>
+      <class>com.tschool.railwayapp.commons.entities.Train</class>
+      <class>com.tschool.railwayapp.commons.entities.TrainType</class>
+      <class>com.tschool.railwayapp.commons.entities.SuperUser</class>
+      <class>com.tschool.railwayapp.commons.entities.User</class>
+      <class>com.tschool.railwayapp.commons.entities.Specialist</class>
+      <properties>
+      	    <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
+            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/railwayapp"/>
+            <property name="javax.persistence.jdbc.user" value="root" />
+            <property name="javax.persistence.jdbc.password" value="admin" />
+         	<property name="hibernate.dialect" value="org.hibernate.dialect.MySQL5InnoDBDialect"/>
+         	<!--<property name="hibernate.hbm2ddl.auto" value="create"/>-->
+                <property name="hibernate.show_sql" value="true" />
+      </properties>
+   </persistence-unit>
+</persistence>
